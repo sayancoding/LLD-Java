@@ -5,5 +5,5 @@ This is about LLD topic wise notes with Java
 
 | Sl. No. | Topic Name         | Link                        |
 | ------- | ------------------ | --------------------------- |
-| 1       | OOPS               | [link]()    |
-| 2       | UML                |
+| 1       | OOPS               | [link]()                    |
+| 2       | UML                | [link][./Concepts/UML_Notes.md]|

@@ -14,4 +14,12 @@
 - **Inheritance** is `is-a` relation
 - **Object association** is `has-a` relation
 
+```text
+1. Simple Association - Simple Has-A relation
+
+2. Aggregation - Has-a relation but each object can have individually (Team has Players oor may not have)
+
+3. composition - Has-a relation but it's tight coupled (Home has room, with out home there is no existence of room)
+```
+
 
