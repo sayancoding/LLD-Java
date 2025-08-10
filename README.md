@@ -5,6 +5,8 @@ This is about LLD topic wise notes with Java
 
 ## Design Pattern
 ### Creational Design Patten :
+> When **Object Creation** part is to be think
+
 | # | Title | Tags | Links | Checked
 |---| ----- | --------| --------| ---- |
 |1|Singleton| `Creational`| [link](./Creational/Singleton_Pattern/)| ✅
@@ -14,6 +16,8 @@ This is about LLD topic wise notes with Java
 |5|Abstract Factory| `Creational`| [link](./Creational/Abstract_Factory_Pattern/)| ✅
 
 ### Structural Design Patten :
+> When multiple **Object Assembling** is to be think
+
 | # | Title | Tags | Links | Checked
 |---| ----- | --------| --------| ---- |
 |1|Adaptor| `Structural`| [link]()| 
@@ -21,6 +25,8 @@ This is about LLD topic wise notes with Java
 |3|Facade| `Structural`| [link]()|
 
 ### Behavioral Design Patten :
+> When multiple **Object Interaction** is to be think
+
 | # | Title | Tags | Links | Checked
 |---| ----- | --------| --------| ---- |
 |1|Observer| `Behavioral`| [link](./Behavioral/ObserverPattern/)| ✅
