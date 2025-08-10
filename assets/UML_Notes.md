@@ -15,7 +15,7 @@
 - **Object association** is `has-a` relation
 
 ```text
-1. Simple Association - Simple Has-A relation
+1. Simple Association - Simple Has-A relation ,Might have relation but must be survive as individual 
 
 2. Aggregation - Has-a relation but each object can have individually (Team has Players oor may not have)
 
